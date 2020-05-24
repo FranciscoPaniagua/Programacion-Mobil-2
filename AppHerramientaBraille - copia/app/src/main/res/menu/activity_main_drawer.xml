@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Alfabeto"
+            android:icon="@drawable/ic_format_color_text"
+            android:title="Alfabeto" />
+        <item
+            android:id="@+id/nav_Numeros"
+            android:icon="@drawable/ic_action_dialer"
+            android:title="Numeros" />
+        <item
+            android:id="@+id/nav_Mayusculas"
+            android:icon="@drawable/ic_sort_by_alpha"
+            android:title="Mayusculas" />
+    </group>
+
+    <item android:title="Información">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Paloma"/>
+            <item
+                android:id="@+id/nav_share2"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Francisco"/>
+            <item
+                android:id="@+id/nav_share3"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Jesus"/>
+            <item
+                android:id="@+id/nav_share4"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Victor"/>
+
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cliente Asignaturas</string>
+    <string name="mostrar_todas">Mostrar todas</string>
+    <string name="mostrar_primera">Mostrar primera</string>
+    <string name="texto_asignaturas">Asignaturas:</string>
+    <string name="boton_delete">Eliminar</string>
+    <string name="boton_edit">Editar</string>
+    <string name="error_asignatura">No existen asignaturas</string>
+    <string name="edit_nombre">Nombre de la Asignatura</string>
+    <string name="btn_actualizar">Actualizar</string>
+
+
+    <string-array name="asignaturas">
+        <item>PM 2</item>
+        <item>TSO</item>
+        <item>TSAM</item>
+        <item>CN</item>
+        <item>PACS</item>
+        <item>TBD</item>
+    </string-array>
+
+
+</resources>
